@@ -2,7 +2,7 @@
 
 # New-PasswordListGenerator
 
-New-PasswordListGenerator is an updated version of the password generator developed by Utpal Balse. It is a command-line tool that generates random passwords and saves them to a text file. Ethical hackers can use this tool to test the strength of passwords used by their clients, by generating a list of potential passwords and attempting to crack them using brute force or dictionary attacks.
+New-PasswordListGenerator is an updated version of the password generator developed by [Utpal Balse](https://github.com/utpalbalse/PasswordListGenerator). It is a command-line tool that generates random passwords and saves them to a text file. Ethical hackers can use this tool to test the strength of passwords used by their clients, by generating a list of potential passwords and attempting to crack them using brute force or dictionary attacks.
 
 ## Features
 
